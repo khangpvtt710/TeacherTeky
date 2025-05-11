@@ -1,0 +1,35 @@
+Dàn Bài Thuyết Trình
+
+Xin chào tất cả mọi người ( Xin chào Phụ Huynh, Thầy và các bạn ) (chung)
+
+1. Giời thiệu bản thân (chung)
+Con tên là ...
+Năm nay con ... tuổi
+Con học lớp ....
+Trường ....
+
+2.a/ Ý tưởng sản phẩm ( đối với lớp thiết kế )
+Tên sản phẩm là gì ?
+Ý tưởng sản phẩm lấy từ đâu ?
+Câu chuyện của sản phẩm ?
+3.a/ Mục đích sản phẩm
+Sản phẩm làm ra có mục đích gì ?
+Các thành phần trong sản phẩm, cách phân bố, bố trí nhằm mục đích gì ?
+Giải thích cách tạo ra những thành phần trong sản phẩm.
+
+2.b/ Ý tưởng sản phẩm ( đối với lớp lập trình )
+Tên sản phẩm là gì ?
+Ý tưởng sản phẩm từ đâu ?
+Cảm hứng lấy ở đâu, tai sao lại chọn như vậy?
+3.b/ Mục đích sản phẩm 
+Sản phẩm làm ra có mục đích gì ?
+Từng thành phần trong sản phẩm có chức năng gì ?
+Giải thích code.
+
+Cảm ơn mọi người vì đã lắng nghe, nếu thầy và phụ huynh có thắc mắc xin đặt câu hỏi cho con ạ (chung)
+
+Mẫu thuyết trình cấp 2
+- giới thiệu bản thân
+- đây là sản phẩm gì ?
+- làm như thế nào ?
+- làm bằng cái gì, công cụ gì ?
