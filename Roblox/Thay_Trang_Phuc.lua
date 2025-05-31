@@ -1,3 +1,5 @@
+--- tạo khối part rồi tạo script để dùng code
+
 local part = script.Parent
 
 local RS = game:GetService("ReplicatedStorage")
