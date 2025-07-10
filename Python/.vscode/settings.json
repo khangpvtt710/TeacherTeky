@@ -1,3 +1,4 @@
 {
   "python.analysis.extraPaths": ["./SPHP2"]
+  "terminal.integrated.shellArgs.windows": ["/k", "chcp 65001"]
 }
