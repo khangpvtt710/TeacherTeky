@@ -1,4 +1,4 @@
---- tạo localscript trong serverscriptservice đặt tên Fire
+--- tạo script trong serverscriptservice đặt tên Fire
 --Lấy remote event "Fire" để nhận hướng từ client
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EventFire = ReplicatedStorage:FindFirstChild("Fire")
