@@ -28,3 +28,12 @@ class PhanSo:
         tu_moi = self.tu * ps_khac.mau - ps_khac.tu * self.mau
         mau_moi = self.mau * ps_khac.mau
         return PhanSo(tu_moi, mau_moi)
+
+ps1 = PhanSo(1, 2)
+ps2 = PhanSo(1, 3)
+
+tong = ps1.cong(ps2)
+hieu = ps1.tru(ps2)
+
+print(f"Tổng: {tong}")  # Kết quả: Tổng: 5/6
+print(f"Hiệu: {hieu}")  # Kết quả: Hiệu: 1/6
